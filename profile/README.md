@@ -1,4 +1,4 @@
-# Voidpoint Interactive
+# :milky_way: Voidpoint Interactive
 We are an indie game development team that prioritises quality over quantity.  
 With numerous project ideas, our team is filled with excitement for our future.  
 ## :video_game: What are we currently working on?
